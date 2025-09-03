@@ -24,7 +24,7 @@
   "devDependencies": {
     "@builder.io/qwik": "0.16.2",
     "@builder.io/qwik-city": "0.0.128",
-    "@divriots/jampack": "^0.7.2",
+    "@divriots/jampack": "^0.33.1",
     "@fontsource/inter": "^4.5.15",
     "@tailwindcss/typography": "^0.5.9",
     "@types/eslint": "8.4.10",
